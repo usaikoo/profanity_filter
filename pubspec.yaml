@@ -1,9 +1,9 @@
-name: profanity_filter
+name: flutter_profanity_filter
 description: A simple profanity filter for Dart and Flutter applications.
-version: 0.0.1
+version: 0.0.2
 maintainer: info@usaiko.dev
+homepage: https://github.com/usaikoo/profanity_filter.git
 
-homepage:
 
 environment:
   sdk: '>=3.3.0 <4.0.0'

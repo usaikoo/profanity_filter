@@ -1,5 +1,5 @@
 library profanity_filter;
-import 'package:profanity_filter/data/bad_words_list.dart';
+import 'package:flutter_profanity_filter/data/bad_words_list.dart';
 
 class ProfanityFilter {
   final List<String> _badWords;

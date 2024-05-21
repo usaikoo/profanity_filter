@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:profanity_filter/profanity_filter.dart';
+import 'package:flutter_profanity_filter/profanity_filter.dart';
 
 void main() {
   group('ProfanityFilter', () {

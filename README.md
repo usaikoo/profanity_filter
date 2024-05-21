@@ -8,7 +8,7 @@ To use Profanity Filter in your Dart project, add it to your `pubspec.yaml` file
 
 ```yaml
 dependencies:
-  profanity_filter: ^1.0.0
+  flutter_profanity_filter: ^1.0.0
 
 
 
