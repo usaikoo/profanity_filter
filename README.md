@@ -31,3 +31,8 @@ void main() {
 }
 
 ```
+
+
+<img src="https://i.ibb.co/prcMjkf/translation.png" width="20"> Supported languages:<br>
+- English
+- Spanish
