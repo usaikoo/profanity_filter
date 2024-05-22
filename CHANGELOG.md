@@ -1,4 +1,8 @@
 
+
+## 0.0.4
+* add the french language 
+
 ## 0.0.3
 
 * add the example usage 
